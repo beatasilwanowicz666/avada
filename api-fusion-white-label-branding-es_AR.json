@@ -1,0 +1,664 @@
+{
+   "domain": "messages",
+   "locale_data": {
+      "messages": {
+         "": {
+            "domain": "messages"
+         },
+         "Avada Patcher": [
+            "Parche de Avada"
+         ],
+         "%s Custom Branding Settings": [
+            "Ajustes de personalización de marca de %s"
+         ],
+         "These settings will change items on %s admin pages.": [
+            "Estos ajustes modificarán elementos en las páginas de administración de %s."
+         ],
+         "%s Label": [
+            "Etiqueta de %s"
+         ],
+         "Replaces all instances of \"%s\".": [
+            "Reemplaza todas las instancias de “%s”."
+         ],
+         "Remove %s Admin Bar Menu": [
+            "Eliminar el menú de la barra de administración de %s"
+         ],
+         "Removes the %s menu item from admin bar on frontend.": [
+            "Elimina el elemento de menú de %s de la barra de administración en la interfaz principal."
+         ],
+         "Yes": [
+            "Sí"
+         ],
+         "No": [
+            "No"
+         ],
+         "Remove Dashboard Main Menu Items": [
+            "Eliminar elementos del menú principal del panel de control"
+         ],
+         "Removes the selected menu items from the dashboard main menu and the %s WP admin menu.": [
+            "Elimina los elementos de menú seleccionados del menú principal del panel de control y del menú de administración de WordPress de %s."
+         ],
+         "Dashboard": [
+            "Panel de control"
+         ],
+         "Options": [
+            "Opciones"
+         ],
+         "Websites": [
+            "Sitios web"
+         ],
+         "Patcher": [
+            "Parche"
+         ],
+         "Plugins": [
+            "Complementos"
+         ],
+         "Changelog": [
+            "Registro de cambios"
+         ],
+         "Support": [
+            "Soporte"
+         ],
+         "Status": [
+            "Estado"
+         ],
+         "Remove Dashboard Sticky Menu Items": [
+            "Eliminar elementos del menú fijo del panel de control"
+         ],
+         "Removes the selected menu items from the dashboard sticky menu and the %s WP admin menu.": [
+            "Elimina los elementos de menú seleccionados del menú fijo del panel de control y del menú de administración de WordPress de %s."
+         ],
+         "Layouts": [
+            "Diseños"
+         ],
+         "Layout Sections": [
+            "Secciones de diseño"
+         ],
+         "Icons": [
+            "Iconos"
+         ],
+         "Library": [
+            "Biblioteca"
+         ],
+         "Sliders": [
+            "Controles deslizantes"
+         ],
+         "Slides": [
+            "Diapositivas"
+         ],
+         "Export / Import": [
+            "Exportar / importar"
+         ],
+         "Rename %s Post Type Menus": [
+            "Renombrar menús de tipos de publicación de %s"
+         ],
+         "Renames the admin menu labels for %s post types.": [
+            "Renombra las etiquetas del menú de administración para los tipos de publicación de %s."
+         ],
+         "FAQs": [
+            "Preguntas frecuentes"
+         ],
+         "Portfolio": [
+            "Portafolio"
+         ],
+         "Skills": [
+            "Habilidades"
+         ],
+         "Tags": [
+            "Etiquetas"
+         ],
+         "Remove Post Type Menus": [
+            "Eliminar menús de tipos de publicación"
+         ],
+         "Removes the selected admin menus for post types registered for \"%s\".": [
+            "Elimina los menús de administración seleccionados para los tipos de publicación registrados para “%s”."
+         ],
+         "FAQ": [
+            "Preguntas frecuentes"
+         ],
+         "Elastic Slider": [
+            "Control deslizante elástico"
+         ],
+         "%s Logo Image": [
+            "Imagen del logotipo de %s"
+         ],
+         "Controls the logo image on %s admin pages. <br/><strong>Recommended size:</strong> 75px x 75px.": [
+            "Controla la imagen del logotipo en las páginas de administración de %s. <br/><strong>Tamaño recomendado:</strong> 75px x 75px."
+         ],
+         "Use Logo": [
+            "Utilizar logotipo"
+         ],
+         "Upload Logo Image": [
+            "Cargar imagen del logotipo"
+         ],
+         "Remove Image": [
+            "Eliminar imagen"
+         ],
+         "Version Number Text": [
+            "Texto del número de versión"
+         ],
+         "Replaces version number text beneath the logo on %s admin screens.": [
+            "Reemplaza el texto del número de versión debajo del logotipo en las pantallas de administración de %s."
+         ],
+         "%s Menu Icon Image": [
+            "Imagen del icono del menú de %s"
+         ],
+         "Controls the menu icon image on %s admin menu and replaces the %s logo. <br/><strong>Recommended size:</strong> 40px x 40px.": [
+            "Controla la imagen del icono del menú en el menú de administración de %s y reemplaza el logotipo de %s. <br/><strong>Tamaño recomendado:</strong> 40px x 40px."
+         ],
+         "Use Menu Icon": [
+            "Utilizar icono de menú"
+         ],
+         "Upload Menu Icon Image": [
+            "Cargar imagen del icono del menú"
+         ],
+         "Dashicon Name for %s Menu Icon": [
+            "Nombre del Dashicon para el icono del menú de %s"
+         ],
+         "Replaces the image icon and default icon for %1$s logo in admin menu. <a target=\"_blank\" href=\"%2$s\">Click Here</a> to see all dashicons.": [
+            "Reemplaza el icono de imagen y el icono predeterminado del logotipo de %1$s en el menú de administración. <a target=\"_blank\" href=\"%2$s\">Haga clic aquí</a> para ver todos los Dashicons."
+         ],
+         "%s Dashboard Welcome Section": [
+            "Sección de bienvenida del panel de control de %s"
+         ],
+         "Controls the content of the %s dashboard welcome section.": [
+            "Controla el contenido de la sección de bienvenida del panel de control de %s."
+         ],
+         "Dashboard welcome section heading.": [
+            "Encabezado de la sección de bienvenida del panel de control."
+         ],
+         "Dashboard welcome section sub-heading.": [
+            "Subencabezado de la sección de bienvenida del panel de control."
+         ],
+         "Dashboard welcome section content.": [
+            "Contenido de la sección de bienvenida del panel de control."
+         ],
+         "Remove %s Dashboard Additional Resources Links": [
+            "Eliminar enlaces de recursos adicionales del panel de control de %s"
+         ],
+         "Removes the additional resources sections from the %s dashboard.": [
+            "Elimina las secciones de recursos adicionales del panel de control de %s."
+         ],
+         "Remove %s Admin Dashboard Footer": [
+            "Eliminar pie de página del panel de administración de %s"
+         ],
+         "Removes the %s admin dashboard footer.": [
+            "Elimina el pie de página del panel de administración de %s."
+         ],
+         "Change Social Media Links": [
+            "Cambiar enlaces de redes sociales"
+         ],
+         "Change the social media links for the admin area. Set to \"#\" to remove the network.": [
+            "Cambia los enlaces de redes sociales para el área de administración. Establezca “#” para eliminar la red."
+         ],
+         "Facebook": [
+            "Facebook"
+         ],
+         "Twitter": [
+            "Twitter"
+         ],
+         "Instagram": [
+            "Instagram"
+         ],
+         "YouTube": [
+            "YouTube"
+         ],
+         "Replaces the image icon and default icon of the %1$s logo in admin menu.<br/> <a target=\"_blank\" href=\"%2$s\">Click Here</a> to see all dashicons.": [
+            "Reemplaza el icono de imagen y el icono predeterminado del logotipo de %1$s en el menú de administración.<br/> <a target=\"_blank\" href=\"%2$s\">Haga clic aquí</a> para ver todos los Dashicons."
+         ],
+         "Avada Custom Branding": [
+            "Personalización de marca de Avada"
+         ],
+         "Save Settings": [
+            "Guardar ajustes"
+         ],
+         "Are you sure, you want to reset these settings?\\n\\nThis action can not be undone.": [
+            "¿Está seguro de que desea restablecer estos ajustes?\\n\\nEsta acción no se puede deshacer."
+         ],
+         "Reset Section": [
+            "Restablecer sección"
+         ],
+         "Are you sure, you want to reset all settings?\\n\\nThis action can not be undone.": [
+            "¿Está seguro de que desea restablecer todos los ajustes?\\n\\nEsta acción no se puede deshacer."
+         ],
+         "Reset All": [
+            "Restablecer todo"
+         ],
+         "Welcome to Avada Custom Branding": [
+            "Bienvenido a la personalización de marca de Avada"
+         ],
+         "Avada Custom Branding is now installed and ready to use! You can brand Avada and the constituent functionality with your own custom branding through easy to use options! Click on the settings tab to find out all you can do with this amazing Avada Custom Branding plugin.": [
+            "¡La personalización de marca de Avada ahora está instalada y lista para usar! Puede personalizar Avada y su funcionalidad constituyente con su propia marca personalizada a través de opciones fáciles de usar. Haga clic en la pestaña de ajustes para descubrir todo lo que puede hacer con este increíble complemento de personalización de marca de Avada."
+         ],
+         "Avada Custom Branding is bundled with Avada and is therefore covered by the 6 months of free support for every Avada license you purchase.": [
+            "La personalización de marca de Avada está incluida con Avada y, por lo tanto, está cubierta por los 6 meses de soporte gratuito para cada licencia de Avada que adquiera."
+         ],
+         "Please make sure Avada version is up to date. Recommended compatibility is Avada 7.0 and newer.": [
+            "Por favor, asegúrese de que la versión de Avada esté actualizada. La compatibilidad recomendada es Avada 7.0 y versiones posteriores."
+         ],
+         "Channels Of Support": [
+            "Canales de soporte"
+         ],
+         "Quick Start Guide": [
+            "Guía de inicio rápido"
+         ],
+         "We understand that it can be a daunting process getting started with WordPress. In light of this, we have prepared a starter pack for you, which includes all you need to know.": [
+            "Entendemos que puede ser un proceso desalentador comenzar con WordPress. En vista de esto, hemos preparado un paquete de inicio para usted, que incluye todo lo que necesita saber."
+         ],
+         "Starter Guide": [
+            "Guía de inicio"
+         ],
+         "Documentation": [
+            "Documentación"
+         ],
+         "This is the place to go to reference different aspects of the product. Our online documentaiton is an incredible resource for learning the ins and outs of using the Avada Website Builder.": [
+            "Este es el lugar al que debe acudir para consultar diferentes aspectos del producto. Nuestra documentación en línea es un recurso increíble para aprender los entresijos del uso del constructor de sitios web Avada."
+         ],
+         "Submit A Ticket": [
+            "Enviar un ticket"
+         ],
+         "We offer excellent support through our advanced ticket system. Make sure to register your purchase first to access our support services and other resources.": [
+            "Ofrecemos un excelente soporte a través de nuestro avanzado sistema de tickets. Asegúrese de registrar su compra primero para acceder a nuestros servicios de soporte y otros recursos."
+         ],
+         "Video Tutorials": [
+            "Tutoriales en video"
+         ],
+         "Nothing is better than watching a video to learn. We have a growing library of narrated HD video tutorials to help teach you the different aspects of using the Avada Website Builder.": [
+            "Nada es mejor que ver un video para aprender. Tenemos una creciente biblioteca de tutoriales en video narrados en HD para ayudarle a enseñar los diferentes aspectos del uso del constructor de sitios web Avada."
+         ],
+         "Watch Videos": [
+            "Ver videos"
+         ],
+         "Community Forum": [
+            "Foro de la comunidad"
+         ],
+         "We also have a community forum for user to user interactions. Ask and help other Avada users! Please note that ThemeFusion does not provide product support here.": [
+            "También contamos con un foro comunitario para interacciones entre usuarios. ¡Pregunte y ayude a otros usuarios de Avada! Tenga en cuenta que ThemeFusion no proporciona soporte técnico aquí."
+         ],
+         "Facebook Group": [
+            "Grupo de Facebook"
+         ],
+         "We have an amazing Facebook Group! Share with other Avada users and help grow our community. Please note, ThemeFusion does not provide support here.": [
+            "¡Tenemos un maravilloso grupo de Facebook! Comparta con otros usuarios de Avada y ayude a hacer crecer nuestra comunidad. Por favor, tenga en cuenta que ThemeFusion no proporciona soporte aquí."
+         ],
+         "Import / Export": [
+            "Importar / exportar"
+         ],
+         "Here, you can export your settings to a JSON file and can import them to another site. You can simply export the settings for individual sections or all sections at once.": [
+            "Aquí, puede exportar sus configuraciones a un archivo JSON e importarlas a otro sitio. Puede simplemente exportar las configuraciones de secciones individuales o todas las secciones a la vez."
+         ],
+         "<a href=\"%s\" target=\"_blank\">Click here</a> to read the documentation of the Avada White Label Branding plugin.": [
+            "<a href=\"%s\" target=\"_blank\">Haga clic aquí</a> para leer la documentación del complemento Avada White Label Branding."
+         ],
+         "Export Settings": [
+            "Exportar configuraciones"
+         ],
+         "Select individual sections to export settings for that section or select \"All\" to export all sections at once.": [
+            "Seleccione secciones individuales para exportar las configuraciones de esa sección o seleccione “Todas” para exportar todas las secciones a la vez."
+         ],
+         "All Sections": [
+            "Todas las secciones"
+         ],
+         "WordPress Admin": [
+            "Administración de WordPress"
+         ],
+         "WordPress Login Screen": [
+            "Pantalla de inicio de sesión de WordPress"
+         ],
+         "Import Settings": [
+            "Importar configuraciones"
+         ],
+         "Upload the exported settings file here and click the button to import the settings.": [
+            "Cargue aquí el archivo de configuraciones exportado y haga clic en el botón para importar las configuraciones."
+         ],
+         "WordPress Admin Branding Settings": [
+            "Configuraciones de marca del administrador de WordPress"
+         ],
+         "These settings will change items in the WordPress admin area.": [
+            "Estas configuraciones cambiarán elementos en el área de administración de WordPress."
+         ],
+         "Remove WordPress Logo": [
+            "Eliminar logotipo de WordPress"
+         ],
+         "Removes the WordPress logo from admin bar.": [
+            "Elimina el logotipo de WordPress de la barra de administración."
+         ],
+         "Remove Screen Options": [
+            "Eliminar opciones de pantalla"
+         ],
+         "Removes the Screen Options tab.": [
+            "Elimina la pestaña de Opciones de pantalla."
+         ],
+         "Remove Help Tab": [
+            "Eliminar pestaña de ayuda"
+         ],
+         "Removes the help tab.": [
+            "Elimina la pestaña de ayuda."
+         ],
+         "Hide Admin Menus": [
+            "Ocultar menús de administración"
+         ],
+         "Removes the selected menus from admin menu.": [
+            "Elimina los menús seleccionados del menú de administración."
+         ],
+         "Posts": [
+            "Entradas"
+         ],
+         "Media": [
+            "Multimedia"
+         ],
+         "Pages": [
+            "Páginas"
+         ],
+         "Comments": [
+            "Comentarios"
+         ],
+         "Appearance": [
+            "Apariencia"
+         ],
+         "Users": [
+            "Usuarios"
+         ],
+         "Tools": [
+            "Herramientas"
+         ],
+         "Settings": [
+            "Ajustes"
+         ],
+         "Rename Admin Menus": [
+            "Renombrar menús de administración"
+         ],
+         "Renames the admin menu labels.": [
+            "Renombra las etiquetas del menú de administración."
+         ],
+         "Admin Footer Text": [
+            "Texto del pie de página de administración"
+         ],
+         "Controls the text to be displayed in footer area of WordPress admin.": [
+            "Controla el texto que se mostrará en el área de pie de página del administrador de WordPress."
+         ],
+         "Controls the footer text on left.": [
+            "Controla el texto del pie de página a la izquierda."
+         ],
+         "Controls the version number text.": [
+            "Controla el texto del número de versión."
+         ],
+         "Dashboard Panels": [
+            "Paneles del escritorio"
+         ],
+         "These settings will change related items on the WordPress Dashboard.": [
+            "Estas configuraciones cambiarán los elementos relacionados en el Escritorio de WordPress."
+         ],
+         "Hide Dashboard Widgets": [
+            "Ocultar widgets del escritorio"
+         ],
+         "Hides the selected widgets from the dashboard.": [
+            "Oculta los widgets seleccionados del escritorio."
+         ],
+         "Quick Draft": [
+            "Borrador rápido"
+         ],
+         "At a Glance": [
+            "De un vistazo"
+         ],
+         "Activity": [
+            "Actividad"
+         ],
+         "WordPress Events and News": [
+            "Eventos y noticias de WordPress"
+         ],
+         "ThemeFusion News": [
+            "Noticias de ThemeFusion"
+         ],
+         "Custom Welcome Panel": [
+            "Panel de bienvenida personalizado"
+         ],
+         "This option adds a custom welcome panel to the dashboard. HTML markup along with core WP classes can be used to customize the layout further.": [
+            "Esta opción agrega un panel de bienvenida personalizado al escritorio. Se puede utilizar marcado HTML junto con las clases principales de WP para personalizar aún más el diseño."
+         ],
+         "Custom welcome panel title.": [
+            "Título del panel de bienvenida personalizado."
+         ],
+         "Custom welcome panel content.": [
+            "Contenido del panel de bienvenida personalizado."
+         ],
+         "Visibility Settings": [
+            "Configuraciones de visibilidad"
+         ],
+         "Control which options certain user roles are can view and access.": [
+            "Controle qué opciones pueden ver y acceder ciertos roles de usuario."
+         ],
+         "User Role Visibility": [
+            "Visibilidad del rol de usuario"
+         ],
+         "Grant access to the white label options for selected user roles.": [
+            "Otorgue acceso a las opciones de marca blanca para los roles de usuario seleccionados."
+         ],
+         "Custom CSS for Admin Pages": [
+            "CSS personalizado para páginas de administración"
+         ],
+         "Add your own custom CSS to style admin pages.": [
+            "Agregue su propio CSS personalizado para estilizar las páginas de administración."
+         ],
+         "Apply Changes to Administrators": [
+            "Aplicar cambios a los administradores"
+         ],
+         "Controls whether branding changes should be applied to the adminstrator user role.": [
+            "Controla si los cambios de marca deben aplicarse al rol de usuario administrador."
+         ],
+         "WordPress Login Screen Branding Settings": [
+            "Configuraciones de marca de la pantalla de inicio de sesión de WordPress"
+         ],
+         "These settings will change items in the WordPress login area.": [
+            "Estas configuraciones cambiarán elementos en el área de inicio de sesión de WordPress."
+         ],
+         "Background Color": [
+            "Color de fondo"
+         ],
+         "Controls the login screen background color. If an image is used below, this color will overlay it allowing you to adjust the opacity from 0 to 100%.": [
+            "Controla el color de fondo de la pantalla de inicio de sesión. Si se utiliza una imagen a continuación, este color se superpondrá permitiéndole ajustar la opacidad de 0 a 100%."
+         ],
+         "Background Image": [
+            "Imagen de fondo"
+         ],
+         "Controls the login screen background image. If a background color is set above, it overlays the image. If you only want the image to show, set the above background color to 0%.": [
+            "Controla la imagen de fondo de la pantalla de inicio de sesión. Si se establece un color de fondo arriba, este se superpone a la imagen. Si solo desea que se muestre la imagen, establezca el color de fondo anterior en 0%."
+         ],
+         "Login Screen Background Image": [
+            "Imagen de fondo de la pantalla de inicio de sesión"
+         ],
+         "Use Image": [
+            "Usar imagen"
+         ],
+         "Upload Image": [
+            "Cargar imagen"
+         ],
+         "Logo Image": [
+            "Imagen del logotipo"
+         ],
+         "Controls the login screen logo image.": [
+            "Controla la imagen del logotipo de la pantalla de inicio de sesión."
+         ],
+         "Login Screen Logo Image": [
+            "Imagen del logotipo de la pantalla de inicio de sesión"
+         ],
+         "Logo Image Link": [
+            "Enlace de la imagen del logotipo"
+         ],
+         "Set a custom link for the logo image.": [
+            "Establece un enlace personalizado para la imagen del logotipo."
+         ],
+         "Login Box Background Color": [
+            "Color de fondo del cuadro de inicio de sesión"
+         ],
+         "Controls the login box background color.": [
+            "Controla el color de fondo del cuadro de inicio de sesión."
+         ],
+         "Login Box Text Color": [
+            "Color del texto del cuadro de inicio de sesión"
+         ],
+         "Controls the login form label color.": [
+            "Controla el color de la etiqueta del formulario de inicio de sesión."
+         ],
+         "Login Screen Link Color": [
+            "Color del enlace de la pantalla de inicio de sesión"
+         ],
+         "Controls the login screen link color.": [
+            "Controla el color del enlace de la pantalla de inicio de sesión."
+         ],
+         "Login Screen Link Hover Color": [
+            "Color de hover del enlace de la pantalla de inicio de sesión"
+         ],
+         "Controls the login screen link hover color.": [
+            "Controla el color de hover del enlace de la pantalla de inicio de sesión."
+         ],
+         "Default Button Color": [
+            "Color predeterminado del botón"
+         ],
+         "Controls the default color of the button.": [
+            "Controla el color predeterminado del botón."
+         ],
+         "Hover Button Color": [
+            "Color de hover del botón"
+         ],
+         "Controls the hover color of the button.": [
+            "Controla el color de hover del botón."
+         ],
+         "Button Default Text Color": [
+            "Color predeterminado del texto del botón"
+         ],
+         "Controls the text color of the button.": [
+            "Controla el color del texto del botón."
+         ],
+         "Button Hover Text Color": [
+            "Color de hover del texto del botón"
+         ],
+         "Controls the hover text color of the button.": [
+            "Controla el color de hover del texto del botón."
+         ],
+         "Remove Lost Password Link": [
+            "Eliminar enlace de contraseña olvidada"
+         ],
+         "Remove the lost password link from login page.": [
+            "Elimina el enlace de contraseña olvidada de la página de inicio de sesión."
+         ],
+         "Avada Branding": [
+            "Marca de Avada"
+         ],
+         "WP Admin": [
+            "Administración de WP"
+         ],
+         "WP Login Screen": [
+            "Pantalla de inicio de sesión de WP"
+         ],
+         "Avada": [
+            "Avada"
+         ],
+         "Link to Avada While Label Branding dashboard": [
+            "Enlace al panel de Avada White Label Branding"
+         ],
+         "v%s": [
+            "v%s"
+         ],
+         "ThemeFusion": [
+            "ThemeFusion"
+         ],
+         "Thank you for choosing Avada. We are honored and are fully dedicated to making your experience perfect.": [
+            "Gracias por elegir Avada. Nos sentimos honrados y estamos completamente dedicados a hacer que su experiencia sea perfecta."
+         ],
+         "Support Policy": [
+            "Política de soporte"
+         ],
+         "Welcome": [
+            "Bienvenido"
+         ],
+         "View %s": [
+            "Ver %s"
+         ],
+         "Add New %s": [
+            "Agregar nuevo %s"
+         ],
+         "Edit %s": [
+            "Editar %s"
+         ],
+         "Add %s": [
+            "Agregar %s"
+         ],
+         "All %s": [
+            "Todos los %s"
+         ],
+         "Search %s": [
+            "Buscar %s"
+         ],
+         "No %s found": [
+            "No se encontraron %s"
+         ],
+         "No %s found in Trash": [
+            "No se encontraron %s en la papelera"
+         ],
+         "%s Categories": [
+            "Categorías de %s"
+         ],
+         "Fusion Patcher: Currently there are no patches available for %1$s version %2$s": [
+            "Fusion Patcher: En la actualidad no hay parches disponibles para %1$s versión %2$s"
+         ],
+         "Fusion Patcher: The following patches are available for %1$s version %2$s": [
+            "Fusion Patcher: Los siguientes parches están disponibles para %1$s versión %2$s"
+         ],
+         "Learn More": [
+            "Más información"
+         ],
+         "The status column displays if a patch was applied. However, a patch can be reapplied if necessary.": [
+            "La columna de estado muestra si se aplicó un parche. No obstante, un parche puede volver a aplicarse si fuera necesario."
+         ],
+         "Patch #": [
+            "Parche n.º"
+         ],
+         "Product": [
+            "Producto"
+         ],
+         "Issue Date": [
+            "Fecha de emisión"
+         ],
+         "Description": [
+            "Descripción"
+         ],
+         "Patch Applied": [
+            "Parche aplicado"
+         ],
+         "Apply Patch": [
+            "Aplicar parche"
+         ],
+         "Dismiss Notices": [
+            "Descartar avisos"
+         ],
+         "Please apply patch #%s first.": [
+            "Por favor, aplique primero el parche n.º %s."
+         ],
+         "Patch cannot be currently aplied.": [
+            "El parche no puede aplicarse actualmente."
+         ],
+         "The ThemeFusion patches server could not be reached. Please contact your host to unblock the \"https://updates.theme-fusion.com/\" domain.": [
+            "No se pudo acceder al servidor de parches de ThemeFusion. Por favor, contacte con su proveedor de alojamiento para desbloquear el dominio “https://updates.theme-fusion.com/”."
+         ],
+         "The Avada patch contents cannot be retrieved. Please contact your host to unblock the \"https://gist.github.com/\" domain.": [
+            "No se puede recuperar el contenido del parche de Avada. Por favor, contacte con su proveedor de alojamiento para desbloquear el dominio “https://gist.github.com/”."
+         ],
+         "Patch empty.": [
+            "Parche vacío."
+         ],
+         "Invalid Patch target.": [
+            "Objetivo del parche no válido."
+         ],
+         "The patch could not be applied because of your specific server permissions. You have two options to remedy this. 1. <a %1$s>Download this zip file</a> which contains the files needed to fix this issue. Simply extract the zip file, and replace the files it contains with the same files on your server. DO NOT REPLACE THE ENTIRE FOLDER. 2. <a %2$s>Contact our support center</a>, submit a ticket and include your FTP credentials so one of our support experts can apply the fix for you. Once the fix is applied, click the \"Dismiss Notices\" button so this message is removed.": [
+            "El parche no pudo aplicarse debido a los permisos específicos de su servidor. Tiene dos opciones para solucionar esto. 1. <a %1$s>Descargue este archivo zip</a> que contiene los archivos necesarios para solucionar este problema. Simplemente extraiga el archivo zip y reemplace los archivos que contiene con los mismos archivos en su servidor. NO REEMPLACE LA CARPETA COMPLETA. 2. <a %2$s>Contacte con nuestro centro de soporte</a>, envíe un ticket e incluya sus credenciales FTP para que uno de nuestros expertos en soporte pueda aplicar la solución por usted. Una vez aplicada la solución, haga clic en el botón “Descartar avisos” para que este mensaje sea eliminado."
+         ],
+         "https://theme-fusion.com": [
+            "https://theme-fusion.com"
+         ],
+         "Custom Branding plugin for the Avada Website Builder.": [
+            "Complemento de personalización de marca para el Constructor de Sitios Web Avada."
+         ]
+      }
+   }
+}
